@@ -7,8 +7,10 @@ This repository provides a quick guide to using the Pandas library in Python. It
 
  **Getting Started with Pandas**
    - Learn about Pandas DataFrames and Series.
-   - Handle and analyze data quickly.
+   - Basic operations
+   - Handle the data
    - Manage and clean missing data easily.
+   - analyzing the data
    - Use functions like mean, median, and mode for analysis.
    - Combine data from different sources and add rows or columns.
 
